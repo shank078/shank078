@@ -62,16 +62,27 @@ Deployed an intentionally vulnerable Windows Server 2022 VM in Azure (Australia 
 
 **→ Captured 1,400+ brute-force attempts from 6+ countries in real time**
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/shank078)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/shank078/azure-sentinel-honeypot-siem)
+
+---
+
+### 🔐 Azure Identity Security & Incident Response Lab
+> **Microsoft Entra ID · MFA · Sign-in Logs · Audit Logs · Incident Response**
+
+Full red team compromise and blue team recovery — built, broken, and fixed by one person. Exploited the gap between MFA *enabled* vs MFA *enforced* to perform a full account takeover using credential theft and MFA hijacking. Then switched hats: detected impossible travel across Australia and Seattle via Sign-in Logs, rebuilt the full attack timeline using Audit Logs, and executed a complete IR cycle — Contain → Eradicate → Recover → Document.
+
+**→ Zero malware. Zero exploits. Just timing, stolen credentials, and a misconfigured control.**
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/shank078/azure-identity-security-lab)
 
 ---
 
 ### 🚌 Real-Time Fleet Telemetry Pipeline
-> **Microsoft Fabric · KQL · Data Activator · Eventhouse · Azure**
+> **Microsoft Fabric · KQL · Data Activator · Eventhouse · Eventstream**
 
-Built a real-time anomaly detection pipeline to identify no-show buses in live streaming transit telemetry. Engineered and tuned Data Activator alert rules — identified and resolved alert fatigue through iterative threshold analysis. Case solved ✅
+Built a real-time anomaly detection pipeline to identify no-show buses in live streaming transit telemetry. Wrote and iterated 3 versions of KQL detection logic, engineered Data Activator alert rules, then identified and resolved alert fatigue through iterative threshold tuning — from no threshold (15 spam alerts in minutes) to > 1h (too strict, missed events overnight) to > 30m (caught the anomalies). Case solved ✅
 
-**→ Detected Bus Line anomalies with sub-30-minute delay threshold in live Eventstream data**
+**→ Detected Bus Line anomalies in live Eventstream data — same KQL pattern used in Microsoft Sentinel analytic rules**
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/shank078/fabric-fleet-telemetry-pipeline)
 
@@ -80,7 +91,7 @@ Built a real-time anomaly detection pipeline to identify no-show buses in live s
 ### 🏢 Enterprise Hybrid Migration & Identity Hardening
 > **Azure · Entra ID · Active Directory · Conditional Access · ASD Essential Eight**
 
-Migrated a simulated aged care organisation from on-premises Active Directory to Azure using Entra ID Connect. Deployed Zero Trust controls — Conditional Access, MFA, RBAC — and aligned the environment with ASD Essential Eight strategies.
+Migrated a simulated aged care organisation from on-premises Active Directory to Azure using Entra ID Connect. Deployed Zero Trust controls — Conditional Access, MFA, RBAC — and aligned the full environment with ASD Essential Eight strategies, modernising legacy GPOs into a cloud-native governance model.
 
 ---
 
@@ -94,7 +105,7 @@ Configured zero-touch device enrolment via Windows Autopilot and enforced enterp
 ### 🌐 Enterprise Networking & Traffic Analysis
 > **Cisco · VLAN · OSPF/EIGRP · ACLs · Layer 3 Switching**
 
-Implemented VLAN segmentation, Layer 3 switching, and redundant routing protocols to simulate a secure enterprise network. Applied ACLs and port security hardening to minimise the internal attack surface.
+Implemented VLAN segmentation, Layer 3 switching, and redundant routing protocols to simulate a secure enterprise network. Applied ACLs and port security hardening to minimise the internal attack surface — knowledge applied daily when troubleshooting cloud and on-premises connectivity at Extratech.
 
 ---
 
