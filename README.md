@@ -78,7 +78,7 @@ KQL practice on streaming data through the Kusto Detective Agency challenge. The
 |---|---|---|
 | CompTIA Security+ | CompTIA | [Completed, August 2026](https://www.credly.com/badges/05f0affe-6096-4799-ae2e-7470b3d3c9aa/public_url) |
 | Google Cybersecurity Professional Certificate | Coursera | [Completed, July 2026](https://www.coursera.org/verify/professional-cert/H85P6FVY3LZP) |
-| Pre Security | TryHackMe | [Completed](https://tryhackme.com/certificate/THM-W0IURVWPR8) |
+| Pre Security | TryHackMe | [Completed, May 2026](https://tryhackme.com/certificate/THM-W0IURVWPR8) |
 | SC-200: Security Operations Analyst | Microsoft | Preparing, exam planned Q4 2026 |
 
 ## Education
