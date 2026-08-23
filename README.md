@@ -4,7 +4,7 @@
 
 **Junior SOC / Cyber Security Analyst** | Microsoft Sentinel · Splunk · KQL · SPL · Azure
 
-Canberra, ACT, Australia · Australian Permanent Resident · open to relocation and remote
+Canberra, ACT, Australia · Australian Permanent Resident · Open to relocation and remote
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shankarbaral1-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shankarbaral1)
 [![Email](https://img.shields.io/badge/Email-shankarbaral1@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shankarbaral1@gmail.com)
